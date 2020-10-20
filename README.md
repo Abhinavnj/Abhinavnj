@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Resume: https://drive.google.com/file/d/11bKEOdgcK-X2pF8Je8xT_Ci7hBfdvIR5/view?usp=sharing
 <!--
 **Abhinavnj/Abhinavnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
