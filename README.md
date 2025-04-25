@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here is my <a href="https://drive.google.com/file/d/1A4gL1EarENE_l8InfbKTo1oUQv4-qImw/view?usp=drive_link" target="_blank">resume</a>.
 On this page, you'll find some of my projects that I enjoyed working on the most!
 <!--
 **Abhinavnj/Abhinavnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
